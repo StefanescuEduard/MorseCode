@@ -89,3 +89,6 @@ visibility.m4
 wchar_t.m4
 wint_t.m4
 xsize.m4
+/.anjuta/
+/.anjuta_sym_db.db
+
